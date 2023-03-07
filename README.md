@@ -1,7 +1,5 @@
 ### Greetings fellow technologist 👋
 
-![Welcome Banner](https://giphy.com/gifs/HBOMax-hbomax-tomandjerry-tomandjerryonhbomax-noyBeNjH4nbtXV5ZLA)
-
 <h3> :man: &nbsp;About Me </h3>
 
 - 🗣️ Pronouns: He/Him
@@ -16,16 +14,16 @@
 
 <p>
 
-[![Manveer's github stats](https://github-readme-stats.vercel.app/api?username=tix0&theme=nightowl&count_private=true&show_icons=true)](https://github.com/tix0)
+[![Manveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tix0&count_private=true&show_icons=true&theme=dracula)](https://github.com/tix0/github-readme-stats)
 
 </p>
 
-<img src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm"></img>
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img>
 
 <p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tix0&theme=nightowl&layout=compact)](https://github.com/tix0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tix0&theme=nightowl&layout=compact&count_private=true)](https://github.com/tix0/github-readme-stats)
 
 </p>
 
