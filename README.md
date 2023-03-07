@@ -14,7 +14,9 @@
 
 <p>
 
-[![Manveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=tix0&count_private=true&show_icons=true&theme=dracula)](https://github.com/tix0/github-readme-stats)
+<a align= "center" href="https://github.com/tix0">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&count_private=true" />
+</a>
 
 </p>
 
@@ -23,10 +25,13 @@
 <p>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tix0&theme=nightowl&layout=compact&count_private=true)](https://github.com/tix0/github-readme-stats)
+<p>
+
+<a align= "center" href="https://github.com/tix0">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tix0&theme=nightowl&layout=compact&count_private=true" />
+</a>
 
 </p>
-
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
