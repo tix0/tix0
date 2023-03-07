@@ -20,7 +20,7 @@
 </a>
 
 </p>
-<img src="https://github.com/tix0/tix0/blob/master/bug.png"></img>
+<img height="100" width="50" src="https://github.com/tix0/tix0/blob/master/bug.png"></img>
 <p>
 <br>
 
