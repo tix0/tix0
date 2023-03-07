@@ -16,7 +16,7 @@
 <p>
 <a align= "center" href="https://github.com/tix0">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&count_private=true" />
-  <img height="270px" width="400" src="https://github.com/tix0/tix0/blob/master/heim.png"></img>
+  <img height="230px" width="360" src="https://github.com/tix0/tix0/blob/master/heim.png"></img>
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
