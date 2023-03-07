@@ -14,9 +14,8 @@
 <br/>
 
 <p>
-<a href="https://github.com/tix0">
+<a align="center" href="https://github.com/tix0">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&count_private=true" />
-  <img height="230px" width="360" src="https://github.com/tix0/tix0/blob/master/heim.png"></img>
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -47,7 +46,7 @@
 </p>
 
 <p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/tix0"/>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/tix0" />
 </p>
 
 -----
@@ -56,4 +55,4 @@ Credit: [Patyal M.](https://github.com/tix0)
 Last edited on: 07/03/2023
 
 -----
-<img src="https://github.com/tix0/tix0/blob/master/bug.png"></img>
+<img align="center" src="https://github.com/tix0/tix0/blob/master/bug.png" />
