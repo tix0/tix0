@@ -1,37 +1,34 @@
 ### Greetings fellow technologist 👋
 
-<h3> :man: &nbsp;About Me </h3>
+![](https://github.com/tix0/auri.png)
 
+<h3> :man: &nbsp;About Me </h3>
 - 🗣️ Pronouns: He/Him
 - 🤓 Building ETL/ELT data pipelines
 - ❤️ My favorite languages: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
 - 💬 Ask me about Python, GCP, AWS, Pentaho, Looker, Airflow
-- 💜 Interests: Gym, trekking, camping, long drives, video games
+- 💜 Interests: Gym, trekking, camping, long drives, video games <img height="100px" width="50px" src="https://github.com/tix0/gamer.png"/>
 - ⚡ Fun fact: I have over 15k hours on my steam account 😅
-
 <br/>
 
-<p>
+![](https://github.com/tix0/heim.png)
 
+<p>
 <a align= "center" href="https://github.com/tix0">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&count_private=true" />
 </a>
 
 </p>
-
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></img>
-
+<img src="https://github.com/tix0/bug.png"></img>
 <p>
 <br>
 
-<p>
-
+<!-- <p>
 <a align= "center" href="https://github.com/tix0">
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tix0&theme=nightowl&layout=compact&count_private=true" />
 </a>
-
-</p>
+</p> -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -52,7 +49,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Lets sync </h3> 
+<h3> 🤝🏻 &nbsp;Lets sync </h3>
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/manveerpatyal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
