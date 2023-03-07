@@ -18,6 +18,7 @@
   <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&count_private=true" />
 </a>
 
+-----
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :alien:
@@ -37,6 +38,7 @@
 
 <br/>
 
+-----
 <h3> 🤝🏻 &nbsp;Lets sync </h3>
 <p align="center">
 <br>
