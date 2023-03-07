@@ -1,6 +1,6 @@
 ### Greetings fellow technologist 👋
 
-<img align= "center" src="https://github.com/tix0/tix0/blob/master/auri.png"></img>
+<img align="left" height="270px" alt="hello_world" src="https://github.com/tix0/tix0/blob/master/auri.png" />
 
 <h3> :man: &nbsp;About Me </h3>
 
