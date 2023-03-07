@@ -54,11 +54,11 @@
 <br>
 <a href="https://www.linkedin.com/in/manveerpatyal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:manveer.patyal@gmail.com?subject=Hello"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="https://manbirpatial.wixsite.com/manveer-patyal"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
+<a href="https://manbirpatial.wixsite.com/manveer-patyal"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://manbirpatial.wixsite.com/manveer-patyal"></a>
 </p>
 
 <p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/tix0"/>
 </p>
 
 -----
