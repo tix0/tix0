@@ -45,12 +45,9 @@
 <a href="https://manbirpatial.wixsite.com/manveer-patyal"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://manbirpatial.wixsite.com/manveer-patyal"></a>
 </p>
 
-<p align="center">
-    <img alt="visitors" src="https://gpvc.arturio.dev/tix0" />
-</p>
-
 -----
+<img align="right" height="180px" src="https://github.com/tix0/tix0/blob/master/bug.png" />
+
 - Credit: [Patyal M.](https://github.com/tix0)
 - Last edited on: 07/03/2023
-
-<img align="right" height="180px" src="https://github.com/tix0/tix0/blob/master/bug.png" />
+- <img alt="visitors" src="https://gpvc.arturio.dev/tix0" />
