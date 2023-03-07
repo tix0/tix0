@@ -50,8 +50,7 @@
 </p>
 
 -----
-Credit: [Patyal M.](https://github.com/tix0)
+- Credit: [Patyal M.](https://github.com/tix0)
+- Last edited on: 07/03/2023
 
-Last edited on: 07/03/2023
-
-<img align="right" height="220px" alt="hello_world" src="https://github.com/tix0/tix0/blob/master/bug.png" />
+<img align="right" height="180px" src="https://github.com/tix0/tix0/blob/master/bug.png" />
