@@ -1,6 +1,6 @@
 ### Greetings fellow technologist 👋
 
-![](https://github.com/tix0/auri.png)
+![](https://github.com/tix0/tix0/blob/master/auri.png)
 
 <h3> :man: &nbsp;About Me </h3>
 - 🗣️ Pronouns: He/Him
@@ -8,11 +8,11 @@
 - ❤️ My favorite languages: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
 - 💬 Ask me about Python, GCP, AWS, Pentaho, Looker, Airflow
-- 💜 Interests: Gym, trekking, camping, long drives, video games <img height="100px" width="50px" src="https://github.com/tix0/gamer.png"/>
+- 💜 Interests: Gym, trekking, camping, long drives, video games <img height="100px" width="50px" src="https://github.com/tix0/tix0/blob/master/gamer.png"/>
 - ⚡ Fun fact: I have over 15k hours on my steam account 😅
 <br/>
 
-![](https://github.com/tix0/heim.png)
+![](https://github.com/tix0/tix0/blob/master/heim.png)
 
 <p>
 <a align= "center" href="https://github.com/tix0">
@@ -20,15 +20,9 @@
 </a>
 
 </p>
-<img src="https://github.com/tix0/bug.png"></img>
+<img src="https://github.com/tix0/tix0/blob/master/bug.png"></img>
 <p>
 <br>
-
-<!-- <p>
-<a align= "center" href="https://github.com/tix0">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tix0&theme=nightowl&layout=compact&count_private=true" />
-</a>
-</p> -->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
