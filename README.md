@@ -9,7 +9,6 @@
 - ❤️ My favorite languages: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
 - 💬 Ask me about Python, GCP, AWS, Pentaho, Looker, Airflow
-- 🌍 I support: Latinas in Tech, AllStar Code, The Foundation to Decrease Worldsuck
 - 💜 Interests: Gym, trekking, camping, long drives, video games
 - ⚡ Fun fact: I have over 15k hours on my steam account 😅
 
