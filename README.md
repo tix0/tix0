@@ -1,8 +1,9 @@
 ### Greetings fellow technologist 👋
 
-![](https://github.com/tix0/tix0/blob/master/auri.png)
+<img align= "center" src="https://github.com/tix0/tix0/blob/master/auri.png"></img>
 
 <h3> :man: &nbsp;About Me </h3>
+
 - 🗣️ Pronouns: He/Him
 - 🤓 Building ETL/ELT data pipelines
 - ❤️ My favorite languages: Python/SQL
