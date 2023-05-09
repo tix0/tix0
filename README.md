@@ -15,14 +15,13 @@
 
 
 <p align="center">
-  <img align="left" height="270px" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />
-  <img align="right" height="270px" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />  
+  <img align="left" height="270px" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />
+  <img align="right" height="270px" width="50%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />  
 </p>
-
 <br/>
 
----<br><br>
 
+-----
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :alien:
@@ -42,7 +41,7 @@
 
 <br/>
 
----<br><br>
+-----
 <h3> 🤝🏻 &nbsp;Lets sync </h3>
 <p align="center">
 <br>
@@ -51,7 +50,7 @@
 <a href="https://manbirpatial.wixsite.com/manveer-patyal"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://manbirpatial.wixsite.com/manveer-patyal"></a>
 </p>
 
----<br><br>
+-----
 <img align="right" height="180px" src="https://github.com/tix0/tix0/blob/master/bug.png" />
 
 - Credit: [Patyal M.](https://github.com/tix0)
