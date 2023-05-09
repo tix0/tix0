@@ -13,9 +13,13 @@
 - ⚡ Fun fact: I have over 15k hours on my steam account 😅
 <br/>
 
+-----
 <p float="left">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />  
+</p>
+
+<br/>
 
 -----
 <h3> 🛠 &nbsp;Tech Stack</h3>
