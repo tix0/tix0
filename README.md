@@ -4,21 +4,20 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🗣️ Pronouns: He/Him
+- 🗣️ `Pronouns`: He/Him
 - 🤓 Building ETL/ELT data pipelines
-- ❤️ My favorite languages: Python/SQL
+- ❤️ `My favorite languages`: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
 - 💬 Ask me about Python, GCP, AWS, Pentaho, Looker, Airflow
-- 💜 Interests: Gym, trekking, camping, long drives, video games
-- ⚡ Fun fact: I have over 15k hours on my steam account 😅
+- 💜 `Interests`: Gym, trekking, camping, long drives, video games
+- ⚡ `Fun fact`: I have over 15k hours on my steam account 😅
 <br/>
 
 <p float="center">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />  
-</p>
+</p><br>   
 
-<br>
 
 -----
 <h3> 🛠 &nbsp;Tech Stack</h3>
