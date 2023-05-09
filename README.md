@@ -14,8 +14,8 @@
 <br/>
 
 <p float="center">
-  <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />  
+  <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img align="right" width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />  
 </p>
 
 <br/>
