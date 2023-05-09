@@ -12,6 +12,12 @@
 - 💜 `Interests`: Gym, trekking, camping, long drives, video games
 - ⚡ `Fun fact`: I have over 15k hours on my steam account 😅
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 <p align="left">
