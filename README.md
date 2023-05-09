@@ -4,22 +4,25 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🗣️ `Pronouns`: He/Him
+- 🗣️ Pronouns: He/Him
 - 🤓 Building ETL/ELT data pipelines
-- ❤️ `My favorite languages`: Python/SQL
+- ❤️ My favorite languages: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
 - 💬 Ask me about Python, GCP, AWS, Pentaho, Looker, Airflow
-- 💜 `Interests`: Gym, trekking, camping, long drives, video games
-- ⚡ `Fun fact`: I have over 15k hours on my steam account 😅
+- 💜 Interests: Gym, trekking, camping, long drives, video games
+- ⚡ Fun fact: I have over 15k hours on my steam account 😅
 <br/>
 
+
 <p align="center">
-  <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />  
+  <img align="left" height="270px" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />
+  <img align="right" height="270px" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />  
 </p>
 
+<br/>
 
-### 🛠 Tech Stack
+-----
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :alien:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +42,7 @@
 <br/>
 
 -----
-### 🤝🏻 Lets sync
+<h3> 🤝🏻 &nbsp;Lets sync </h3>
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/manveerpatyal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
