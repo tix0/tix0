@@ -21,7 +21,8 @@
 
 <br/>
 
------
+---<br><br>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - :alien:
@@ -41,7 +42,7 @@
 
 <br/>
 
------
+---<br><br>
 <h3> 🤝🏻 &nbsp;Lets sync </h3>
 <p align="center">
 <br>
@@ -50,7 +51,7 @@
 <a href="https://manbirpatial.wixsite.com/manveer-patyal"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https://manbirpatial.wixsite.com/manveer-patyal"></a>
 </p>
 
------
+---<br><br>
 <img align="right" height="180px" src="https://github.com/tix0/tix0/blob/master/bug.png" />
 
 - Credit: [Patyal M.](https://github.com/tix0)
