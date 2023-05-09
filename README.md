@@ -13,14 +13,14 @@
 - ⚡ `Fun fact`: I have over 15k hours on my steam account 😅
 <br/>
 
-<p float="center">
+<p align="center">
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula&ring=FF7530&fire=FF0000" />  
-</p><br>   
+</p>
 
 
 -----
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 Tech Stack
 
 - :alien:
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +40,7 @@
 <br/>
 
 -----
-<h3> 🤝🏻 &nbsp;Lets sync </h3>
+### 🤝🏻 Lets sync
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/manveerpatyal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
