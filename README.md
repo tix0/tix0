@@ -4,13 +4,13 @@
 
 <h3> :man: &nbsp;About Me </h3>
 
-- 🗣️ Pronouns: He/Him
+- 🗣️ `Pronouns`: He/Him
 - 🤓 Building ETL/ELT data pipelines
-- ❤️ My favorite languages: Python/SQL
+- ❤️ `My favorite languages`: Python/SQL
 - ☁️ Building infrastucture on cloud platforms (GCP, AWS)
-- 💬 Ask me about Python, GCP, AWS, Pentaho, Looker, Airflow
-- 💜 Interests: Gym, trekking, camping, long drives, video games
-- ⚡ Fun fact: I have over 15k hours on my steam account 😅
+- 💬 `Ask me about`: Python, GCP, AWS, Pentaho, Looker, Airflow
+- 💜 `Interests`: Gym, trekking, camping, long drives, video games
+- ⚡ `Fun fact`: I have over 15k hours on my steam account 😅
 <br/>
 
 
@@ -40,7 +40,7 @@
 
 <br/>
 
------
+
 <h3> 🤝🏻 &nbsp;Lets sync </h3>
 <p align="center">
 <br>
