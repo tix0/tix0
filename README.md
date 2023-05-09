@@ -19,7 +19,6 @@
 </p>
 
 
------
 ### 🛠 Tech Stack
 
 - :alien:
