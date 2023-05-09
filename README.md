@@ -13,7 +13,6 @@
 - ⚡ `Fun fact`: I have over 15k hours on my steam account 😅
 <br/>
 <br/>
-<br/>
 
 
 <p align="left">
