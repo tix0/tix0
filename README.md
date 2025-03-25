@@ -15,10 +15,13 @@
 <br/>
 
 
-<p align="left">
-  <img align="left" height="270px" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=tix0&theme=dracula"  alt="GitHub Streak />
-  <img align="right" height="270px" width="47%" src="https://github-readme-stats.vercel.app/api?username=tix0&theme=dracula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"" />  
-</p>
+### 📊 Github Stats
+<a href='https://github.com/tix0/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/tix0/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/tix0/github-stats-transparent/output/generated/languages.svg)
+
+</a>
 <br/>
 
 
