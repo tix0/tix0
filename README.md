@@ -54,3 +54,4 @@
 
 - Credit: [Patyal M.](https://github.com/tix0)
 - Last edited on: 07/03/2023
+- https://komarev.com/ghpvc/?username=tix0&label=Profile%20Visits&color=blue&style=for-the-badge
