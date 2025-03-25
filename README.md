@@ -54,4 +54,4 @@
 
 - Credit: [Patyal M.](https://github.com/tix0)
 - Last edited on: 07/03/2023
-- <img alt="visitors" src="https://gpvc.arturio.dev/tix0" />
+- <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=rusty-sj.rusty-sj" />
